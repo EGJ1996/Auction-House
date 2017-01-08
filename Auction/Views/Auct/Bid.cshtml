@@ -1,0 +1,58 @@
+﻿@model Auction.Models.Auct
+
+@{
+    ViewBag.Title = "Bid";
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(model => model.highestBid, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.highestBid, new { @type="number",@min=Model.highestBid})
+                @Html.ValidationMessageFor(model => model.Name)
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Place Bid" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rating)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.highestBid)
+        </th>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayFor(model => model.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Category)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.Rating)
+        </td>
+        <td>
+            @Html.DisplayFor(model => model.highestBid)
+        </td>
+    </tr>
+</table>
+@section Scripts{
+    <script>
+
+    </script>
+}

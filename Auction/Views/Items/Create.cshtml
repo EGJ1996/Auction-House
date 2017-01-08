@@ -1,0 +1,78 @@
+﻿@model Auction.Models.CompositeModel
+@{
+    ViewBag.Title = "Create";
+}
+
+<style>
+    #txt{
+        width:auto;
+    }
+</style>
+<h2>Create</h2>
+
+
+@using (Html.BeginForm("Create", "Items", FormMethod.Post, new { @class = "form-horizontal", role = "form" ,enctype="multipart/form-data"}))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Item</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model=>model.it.Name, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.it.Name,new {@class="form-control",@style="width:auto"})
+                @Html.ValidationMessageFor(model => model.it.Name)
+            </div>
+        </div>
+        <div class="form-group">
+        @Html.LabelFor(model => model.it.Category, new { @class = "control-label col-md-2"})
+        @{
+            List<String> ls = new List<String>();
+        }
+        @foreach (var itm in Model.cat)
+        {
+            ls.Add(itm.Name);
+        }
+        <div class="col-md-10">
+            @Html.DropDownListFor(model => model.it.Category, new SelectList(ls, "Categories"), new { @class="form-control",@style="width:auto"})
+            @Html.ValidationMessageFor(model => model.it.Category)
+        </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.it.Price, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.it.Price, new { @class = "form-control",@style="width:auto"})
+                @Html.ValidationMessageFor(model => model.it.Price)
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.it.Rating, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.it.Rating, new { @class = "form-control" ,@style="width:auto;"})
+                @Html.ValidationMessageFor(model => model.it.Rating)
+            </div>
+        </div>
+        <div class="form-group">
+           <label for="image1" class="control-label col-md-2">Photo</label>
+            <div class="editor-field">
+                <input id="image1" name="image1" type="file" class="form-control" style="width:auto;"/>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

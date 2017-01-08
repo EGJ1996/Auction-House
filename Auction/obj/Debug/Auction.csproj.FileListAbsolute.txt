@@ -1,0 +1,841 @@
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\obj\Debug\Auction.Migrations.Initial.resources
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\obj\Debug\Auction.Migrations.Rating.resources
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\obj\Debug\Auction.Migrations.Name.resources
+C:\Users\emilj\Desktop\Visual Studio 2013\Projects\Auction\Auction\obj\Debug\Auction.Migrations.DataAnotation.resources
+C:\Users\emilj\Desktop\Auction\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Auction\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Auction\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Auction\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Auction\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Auction\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Auction\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.Migrations.Initial.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.Migrations.Rating.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.Migrations.Name.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.Migrations.DataAnotation.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.Migrations.InitialCreate.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.Migrations.Update.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.Migrations.Update2.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\Auction\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\Auction\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Auction\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Auction.dll.config
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Auction.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Auction.pdb
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Antlr3.Runtime.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\EntityFramework.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Newtonsoft.Json.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Owin.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.Helpers.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.Mvc.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.Optimization.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.Razor.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.WebPages.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\WebGrease.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.Helpers.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.Mvc.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.Optimization.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.Razor.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.WebPages.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Newtonsoft.Json.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\EntityFramework.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\obj\Debug\Auction.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\obj\Debug\Auction.pdb
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\Auction1\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Project\Auction1-master\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Auction1\Auction1-master\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\Software Engineering\Auction1\Auction1-master\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Auction-House\Auction1-master\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Auction1\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Auction1\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.Migrations.Lupdate.resources
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\Auction1\Auction\obj\Debug\Auction.Migrations.AnUpdate.resources
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\Backup1\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\Backup1\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.Migrations.Lupdate.resources
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.Migrations.AnUpdate.resources
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\Backup1\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.Lupdate.resources
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.AnUpdate.resources
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\SoftwareEngProj\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Auction.dll.config
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Auction.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Auction.pdb
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Antlr3.Runtime.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\EntityFramework.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Newtonsoft.Json.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Owin.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.Helpers.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.Mvc.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.Optimization.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.Razor.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.WebPages.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\WebGrease.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\EntityFramework.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.Helpers.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.Mvc.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.Optimization.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.Razor.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.WebPages.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Newtonsoft.Json.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.Lupdate.resources
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.Migrations.AnUpdate.resources
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.dll
+C:\Users\Kristy\Documents\Visual Studio 2015\Projects\SoftwareEngProj\Auction\obj\Debug\Auction.pdb
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Auction.dll.config
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Auction.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Auction.pdb
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Antlr3.Runtime.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\EntityFramework.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Newtonsoft.Json.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Owin.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.Helpers.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.Mvc.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.Optimization.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.Razor.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.WebPages.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\WebGrease.dll
+C:\Users\emilj\Desktop\SEProj\Auction\bin\EntityFramework.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.Helpers.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.Mvc.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.Optimization.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.Razor.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.WebPages.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Newtonsoft.Json.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emilj\Desktop\SEProj\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.Migrations.Lupdate.resources
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.Migrations.AnUpdate.resources
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.dll
+C:\Users\emilj\Desktop\SEProj\Auction\obj\Debug\Auction.pdb
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Auction.dll.config
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Auction.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Auction.pdb
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\EntityFramework.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Owin.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.Helpers.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.Mvc.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.Optimization.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.Razor.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.WebPages.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\WebGrease.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\EntityFramework.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.Helpers.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.Mvc.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.Optimization.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.Razor.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.WebPages.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.Migrations.Init.resources
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.Migrations.Init1.resources
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.Migrations.FirstName.resources
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.Migrations.Lupdate.resources
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.Migrations.AnUpdate.resources
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.dll
+C:\Users\Dell\Desktop\Auction-House-master\Auction\obj\Debug\Auction.pdb
